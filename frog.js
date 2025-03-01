@@ -114,7 +114,7 @@ class Frog {
 
         // Animate through sprites 0 to 6
         for (let i = 1; i <= 6; i++) {
-            await new Promise(resolve => setTimeout(resolve, 50)); // Adjust timing as needed (50ms per frame)
+            await new Promise(resolve => setTimeout(resolve, 50));
             this.currentSpriteIndex = i;
             this.updateSprite();
         }
