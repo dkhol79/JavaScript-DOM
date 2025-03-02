@@ -119,7 +119,7 @@ class Frog {
             this.updateSprite();
         }
 
-        this.isJumping = false; // Jump complete, ends on frog7.png
+        this.isJumping = false; // Jump complete, ends on frog7.pn
     }
 
     extendTongue() {

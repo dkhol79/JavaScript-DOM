@@ -4,9 +4,22 @@ const minimumDistance = 100;
 
 const carImages = [
     "cars/blue-car.png",
+    "cars/blue-2-car.png",
+    "cars/dark-blue-car.png",
     "cars/red-car.png",
     "cars/red-truck.png",
-    "cars/yellow-car.png"
+    "cars/blue-truck.png",
+    "cars/green-truck.png",
+    "cars/dark-purple-truck.png",
+    "cars/yellow-car.png",
+    "cars/yellow-2-car.png",
+    "cars/orange-car.png",
+    "cars/light-yellow-car.png",
+    "cars/purple-car.png",
+    "cars/dark-purple-car.png",
+    "cars/grey-car.png",
+    "cars/white-car.png",
+    "cars/green-suv.png"
 ];
 
 let carPositions = {};
