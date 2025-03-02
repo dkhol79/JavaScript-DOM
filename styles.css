@@ -28,7 +28,8 @@ body {
     background-color: lightgreen;
     margin: auto;
     overflow: hidden;
-    border: 2px solid black;
+    border: none;
+    border-radius: 10px;
     background-image: url("background/grass.jpg");
     background-size: cover;
     background-position: center;
