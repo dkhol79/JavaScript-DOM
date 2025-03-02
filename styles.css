@@ -34,7 +34,6 @@ body {
     background-position: center;
 }
 
-/* Remove the duplicate #game-container definition */
 .road {
     width: 800px;
     height: 135px;
